@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en" style="background-color: rgb(34, 34, 34);">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StarFighters</title>
+    <style>
+        table {
+            color: white;
+            font-family: serif;
+            font-size: xx-large;
+            text-align: center;
+            border-collapse: collapse;
+            position: absolute;
+            table-layout: fixed;
+            left: 490px;
+            top: 800px;
+            width: 50%;
+        }
+    </style>
+</head>
+
+<body>
+    <hr style="margin-top: 10px; color: yellow;">
+    <p style="color: white; font-family: serif; font-size: x-large; text-align: center; margin-top: 20px;">We are the StarFighters, a military group who goes out onto missions with the EF-24G in VTOL VR.</p>
+    <p style="color: white; font-family: serif; font-size: large; text-align: center; margin-top: -15px; font-style: italic;"><u>We are currently recruiting members, so if you are interested, go to the bottom of the page.</u></p>
+    <hr style="margin-top: 20px; color: yellow; width: 1500px;">
+    <p style="color: white; font-family: serif; font-size: x-large; text-align: center;">Some pictures of us: (Will add more later)</p>
+    <img src="sf.png" height="400" style="position: absolute; left: 50px; top: 250px;">
+    <img src="sf2.png" height="400" style="position: absolute; right: 50px; top: 250px;">
+    <hr style="margin-top: 580px; width: 1300px;">
+    <table border="1">
+        <tr>
+            <th colspan="2">Our current line-up</th>
+        </tr>
+        <tr>
+            <td>
+                #1
+            </td>
+            <td>
+                Jaxson "Tech"
+            </td>
+        </tr>
+        <tr>
+            <td>
+                #2
+            </td>
+            <td>
+                Gery "Gamble"
+            </td>
+        </tr>
+        <tr>
+            <td>
+                #3
+            </td>
+            <td>
+                
+            </td>
+        </tr>
+        <tr>
+            <td>
+                #4
+            </td>
+            <td>
+
+            </td>
+        </tr>
+        <tr>
+            <td>
+                #5
+            </td>
+            <td>
+
+            </td>
+        </tr>
+        <tr>
+            <td>
+                #6
+            </td>
+            <td>
+
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>
+
+</head>
